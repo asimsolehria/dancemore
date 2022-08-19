@@ -79,7 +79,7 @@
                 <tbody>
                   <tr>
                     <td class="o_bg-white o_px o_py-md o_br-t o_sans o_text" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 16px;line-height: 24px;background-color: #ffffff;border-radius: 4px 4px 0px 0px;padding-left: 16px;padding-right: 16px;padding-top: 24px;padding-bottom: 24px;" align="center">
-                      <p style="margin-top: 0px;margin-bottom: 0px;"><a class="o_text-primary" href="<?php echo site_url(); ?>" style="text-decoration: none;outline: none;color: #126de5;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/07/imageedit_5_6784328303.png" style="max-width: 136px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="136" height="36"></a></p>
+                      <p style="margin-top: 0px;margin-bottom: 0px;"><a class="o_text-primary" href="<?php echo site_url(); ?>" style="text-decoration: none;outline: none;color: #126de5;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/06/logo.png" style="max-width: 136px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="136" height="36"></a></p>
                     </td>
                   </tr>
                 </tbody>
@@ -103,25 +103,25 @@
                       <!--[if mso]><table cellspacing="0" cellpadding="0" border="0" role="presentation"><tbody><tr><td width="150" align="left" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-3 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_left" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                          <a href="<?php echo site_url(); ?>/product-category/all-items/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">Shop</p></a>
+                          <a href="<?php echo site_url(); ?>/warenkorb/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">Shop</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td><td width="150" align="center" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-1 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                            <a href="<?php echo site_url(); ?>/our-story/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">About Us</p></a>
+                            <a href="<?php echo site_url(); ?>/datenschutz/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">About Us</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td><td width="150" align="center" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-1 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                            <a href="<?php echo site_url(); ?>/my-account/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">My Account</p></a>
+                            <a href="<?php echo site_url(); ?>/my-account/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">My Account</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td><td width="150" align="right" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-1 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_right" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                            <a href="<?php echo site_url(); ?>/need-help/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">Help</p></a>
+                            <a href="<?php echo site_url(); ?>/impressum/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">Help</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td></tr><tr><td colspan="4" style="padding: 0px 8px;"><![endif]-->
@@ -154,7 +154,7 @@
                 <tbody>
                   <tr>
                     <td class="o_bg-white o_px-md o_py o_sans o_text o_text-secondary" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 16px;line-height: 24px;background-color: #ffffff;color: #424651;padding-left: 24px;padding-right: 24px;padding-top: 16px;padding-bottom: 16px;" align="center">
-                      <p style="margin-top: 0px;margin-bottom: 0px;"><img class="o_img-full o_br" title="O'Caiden Baby Banner" src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/banner.jpg" alt="Banner-with-baby" style="max-width: 584px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;width: 100%;border-radius: 4px;" width="584" height="352"></p>
+                      <p style="margin-top: 0px;margin-bottom: 0px;"><img class="o_img-full o_br" title="O'Caiden Baby Banner" src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/dance.jpg" alt="Banner-with-baby" style="max-width: 584px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;width: 100%;border-radius: 4px;" width="584" height="352"></p>
                     </td>
                   </tr>
                 </tbody>
@@ -177,8 +177,8 @@
                       <div class="o_col o_col-2 o_col-full" style="display: inline-block;vertical-align: top;width: 100%;max-width: 200px;">
                         <div style="font-size: 32px; line-height: 32px; height: 32px;">&nbsp; </div>
                         <div class="o_px-xs o_sans o_text-xs o_text-light o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;color: #82899a;text-align: center;padding-left: 8px;padding-right: 8px;">
-                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>/product-category/bodysuits/" style="text-decoration: none;outline: none;color: #126de5;"><img class="o_br-max" src="<?php echo site_url(); ?>/wp-content/uploads/2022/03/onesie.png" alt="" style="max-width: 84px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;border-radius: 96px; border: 2px dotted #000; padding: 12px;" width="84" height="84"></a></p>
-                          <p class="o_text" style="font-size: 16px;line-height: 24px;margin-top: 0px;margin-bottom: 0px;"><a class="o_text-dark" href="<?php echo site_url(); ?>/product-category/bodysuits/" style="text-decoration: none;outline: none;color: #242b3d;"><strong style="color: #242b3d;">Body Suits</strong></a></p>
+                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>/hip-hop/" style="text-decoration: none;outline: none;color: #126de5;"><img class="o_br-max" src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/dance3.png" alt="" style="max-width: 84px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;border-radius: 96px; border: 2px dotted #000; padding: 12px;" width="84" height="84"></a></p>
+                          <p class="o_text" style="font-size: 16px;line-height: 24px;margin-top: 0px;margin-bottom: 0px;"><a class="o_text-dark" href="<?php echo site_url(); ?>/product-category/bodysuits/" style="text-decoration: none;outline: none;color: #242b3d;"><strong style="color: #9B1828;">Hip Hop</a></p>
                           
                         </div>
                       </div>
@@ -186,8 +186,8 @@
                       <div class="o_col o_col-2 o_col-full" style="display: inline-block;vertical-align: top;width: 100%;max-width: 200px;">
                         <div style="font-size: 32px; line-height: 32px; height: 32px;">&nbsp; </div>
                         <div class="o_px-xs o_sans o_text-xs o_text-light o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;color: #82899a;text-align: center;padding-left: 8px;padding-right: 8px;">
-                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>/product-category/headbands/" style="text-decoration: none;outline: none;color: #126de5;"><img class="o_br-max" src="<?php echo site_url(); ?>/wp-content/uploads/2022/03/bow-tie.png" alt="" style="max-width: 84px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;border-radius: 96px; border: 2px dotted #000; padding: 12px;" width="84" height="84"></a></p>
-                          <p class="o_text" style="font-size: 16px;line-height: 24px;margin-top: 0px;margin-bottom: 0px;"><a class="o_text-dark" href="<?php echo site_url(); ?>/product-category/headbands/" style="text-decoration: none;outline: none;color: #242b3d;"><strong style="color: #242b3d;">Headbands</strong></a></p>
+                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>/hochzeitstanz/" style="text-decoration: none;outline: none;color: #126de5;"><img class="o_br-max" src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/dance2.png" alt="" style="max-width: 84px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;border-radius: 96px; border: 2px dotted #000; padding: 12px;" width="84" height="84"></a></p>
+                          <p class="o_text" style="font-size: 16px;line-height: 24px;margin-top: 0px;margin-bottom: 0px;"><a class="o_text-dark" href="<?php echo site_url(); ?>/product-category/headbands/" style="text-decoration: none;outline: none;color: #242b3d;"><strong style="color: #9B1828;">Wedding Punch</strong></a></p>
                           
                         </div>
                       </div>
@@ -195,8 +195,8 @@
                       <div class="o_col o_col-2 o_col-full" style="display: inline-block;vertical-align: top;width: 100%;max-width: 200px;">
                         <div style="font-size: 32px; line-height: 32px; height: 32px;">&nbsp; </div>
                         <div class="o_px-xs o_sans o_text-xs o_text-light o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;color: #82899a;text-align: center;padding-left: 8px;padding-right: 8px;">
-                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>/product-category/newborn-essential-sets/" style="text-decoration: none;outline: none;color: #126de5;"><img class="o_br-max" src="<?php echo site_url(); ?>/wp-content/uploads/2022/03/gift-box.png" alt="" style="max-width: 84px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;border-radius: 96px; border: 2px dotted #000; padding: 12px;" width="84" height="84"></a></p>
-                          <p class="o_text" style="font-size: 16px;line-height: 24px;margin-top: 0px;margin-bottom: 0px;"><a class="o_text-dark" href="<?php echo site_url(); ?>/product-category/newborn-essential-sets/" style="text-decoration: none;outline: none;color: #242b3d;"><strong style="color: #242b3d;">Sets</strong></a></p>
+                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>/privatuntericht/" style="text-decoration: none;outline: none;color: #126de5;"><img class="o_br-max" src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/dance1.png" alt="" style="max-width: 84px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;border-radius: 96px; border: 2px dotted #000; padding: 12px;" width="84" height="84"></a></p>
+                          <p class="o_text" style="font-size: 16px;line-height: 24px;margin-top: 0px;margin-bottom: 0px;"><a class="o_text-dark" href="<?php echo site_url(); ?>/product-category/newborn-essential-sets/" style="text-decoration: none;outline: none;color: #242b3d;"><strong style="color: #9B1828;">Private Classes</strong></a></p>
                           
                         </div>
                       </div>
@@ -239,7 +239,7 @@
                       <div class="o_col o_col-3 o_col-full" style="display: inline-block;vertical-align: top;width: 100%;max-width: 300px;">
                         <div style="font-size: 32px; line-height: 32px; height: 32px;">&nbsp; </div>
                         <div class="o_px-xs o_sans o_text-xs o_text-light o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;color: #82899a;text-align: center;padding-left: 8px;padding-right: 8px;">
-                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="https://example.com/" style="text-decoration: none;outline: none;color: #126de5;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/Mockup_optimized.png" alt="" style="max-width: 250px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="250"></a></p>
+                          <p class="o_mb" style="margin-top: 0px;margin-bottom: 16px;"><a class="o_text-primary" href="<?php echo site_url(); ?>" style="text-decoration: none;outline: none;color: #126de5;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/sideImage.png" alt="" style="max-width: 250px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="250"></a></p>
                           
                         </div>
                       </div>
@@ -269,25 +269,25 @@
                       <!--[if mso]><table cellspacing="0" cellpadding="0" border="0" role="presentation"><tbody><tr><td width="150" align="left" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-3 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_left" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                          <a href="<?php echo site_url(); ?>/product-category/all-items/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">Shop</p></a>
+                          <a href="<?php echo site_url(); ?>/warenkorb/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">Shop</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td><td width="150" align="center" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-1 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                            <a href="<?php echo site_url(); ?>/our-story/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">About Us</p></a>
+                            <a href="<?php echo site_url(); ?>/datenschutz/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">About Us</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td><td width="150" align="center" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-1 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                            <a href="<?php echo site_url(); ?>/my-account/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">My Account</p></a>
+                            <a href="<?php echo site_url(); ?>/my-account/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">My Account</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td><td width="150" align="right" valign="top" style="padding: 0px 8px;"><![endif]-->
                       <div class="o_col o_col-1 o_col-half" style="display: inline-block;vertical-align: top;width: 100%;max-width: 150px;">
                         <div class="o_px-xs o_sans o_text-xs o_right" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
-                            <a href="<?php echo site_url(); ?>/need-help/"> <p class="o_text-light" style="color: #82899a;margin-top: 0px;margin-bottom: 0px;">Help</p></a>
+                            <a href="<?php echo site_url(); ?>/impressum/"> <p class="o_text-light" style="color: #9B1828;margin-top: 0px;margin-bottom: 0px;">Help</p></a>
                         </div>
                       </div>
                       <!--[if mso]></td></tr><tr><td colspan="4" style="padding: 0px 8px;"><![endif]-->
@@ -320,7 +320,7 @@
               <table class="o_block" role="presentation" style="max-width: 632px;margin: 0 auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
                 <tbody>
                   <tr>
-                    <td class="o_re o_bg-dark o_px o_pb-lg" style="font-size: 0;vertical-align: top;background-color: #242b3d;padding-left: 16px;padding-right: 16px;padding-bottom: 32px;" align="center">
+                    <td class="o_re o_bg-dark o_px o_pb-lg" style="font-size: 0;vertical-align: top;background-color: #9B1828;padding-left: 16px;padding-right: 16px;padding-bottom: 32px;" align="center">
                       <!--[if mso]><table cellspacing="0" cellpadding="0" border="0" role="presentation"><tbody><tr><td width="200" align="center" valign="top" style="padding:0px 8px;"><![endif]-->
                       <div class="o_col o_col-2 o_col-full" style="display: inline-block;vertical-align: top;width: 100%;max-width: 200px;">
                         <div style="font-size: 32px; line-height: 32px; height: 32px;">&nbsp; </div>
@@ -333,9 +333,9 @@
                         <div style="font-size: 24px; line-height: 24px; height: 24px;">&nbsp; </div>
                         <div class="o_px-xs o_sans o_text-xs o_center" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;text-align: center;padding-left: 8px;padding-right: 8px;">
                           <p style="margin-top: 0px;margin-bottom: 0px;">
-                            <a class="o_text-dark_light" href="https://www.facebook.com/ocaidenbabycompany/" style="text-decoration: none;outline: none;color: #a0a3ab;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/facebook-light.png" alt="fb" style="max-width: 36px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="36" height="36"></a><span> &nbsp;</span>
-                            <a class="o_text-dark_light" href="https://twitter.com/ocaidenbabyco" style="text-decoration: none;outline: none;color: #a0a3ab;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/twitter-light.png" alt="tw" style="max-width: 36px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="36" height="36"></a><span> &nbsp;</span>
-                            <a class="o_text-dark_light" href="https://www.instagram.com/ocaidenbabycompany/" style="text-decoration: none;outline: none;color: #a0a3ab;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/instagram-light.png" alt="ig" style="max-width: 36px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="36" height="36"></a><span> &nbsp;</span>
+                            <a class="o_text-dark_light" href="https://www.facebook.com/tanzschuledancemore" style="text-decoration: none;outline: none;color: #a0a3ab;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/facebook.png" alt="fb" style="max-width: 36px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="36" height="36"></a><span> &nbsp;</span>
+                            <!-- <a class="o_text-dark_light" href="https://twitter.com/ocaidenbabyco" style="text-decoration: none;outline: none;color: #a0a3ab;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/twitter.png" alt="tw" style="max-width: 36px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="36" height="36"></a><span> &nbsp;</span> -->
+                            <a class="o_text-dark_light" href="https://www.instagram.com/tanzschuledancemore" style="text-decoration: none;outline: none;color: #a0a3ab;"><img src="<?php echo site_url(); ?>/wp-content/uploads/2022/08/instagram.png" alt="ig" style="max-width: 36px;-ms-interpolation-mode: bicubic;vertical-align: middle;border: 0;line-height: 100%;height: auto;outline: none;text-decoration: none;" width="36" height="36"></a><span> &nbsp;</span>
                            
                           </p>
                         </div>
@@ -351,9 +351,9 @@
                     </td>
                   </tr>
                   <tr>
-                    <td class="o_bg-dark o_px-md o_pb-lg o_br-b o_sans o_text-xs o_text-dark_light" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;background-color: #242b3d;color: #a0a3ab;border-radius: 0px 0px 4px 4px;padding-left: 24px;padding-right: 24px;padding-bottom: 32px;" align="center">
+                    <td class="o_bg-dark o_px-md o_pb-lg o_br-b o_sans o_text-xs o_text-dark_light" style="font-family: Helvetica, Arial, sans-serif;margin-top: 0px;margin-bottom: 0px;font-size: 14px;line-height: 21px;background-color: #9B1828;color: #fff;border-radius: 0px 0px 4px 4px;padding-left: 24px;padding-right: 24px;padding-bottom: 32px;" align="center">
                       
-                      <p class="o_mb-xs" style="margin-top: 0px;margin-bottom: 8px;">Copyrights © 2018 O’Caiden LLC. All Rights Reserved.
+                      <p class="o_mb-xs" style="margin-top: 0px;margin-bottom: 8px;">Copyrights © 2022 DanceMore. All Rights Reserved.
                       </p>
                       
                     </td>
